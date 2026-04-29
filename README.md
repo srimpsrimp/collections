@@ -26,6 +26,8 @@ Pull requests are accepted, but take into account that we want to have high-qual
 
 Maintainers reserve the right to reject collections, even if they meet the guidelines, for any reason.
 
+**Please only edit / create one collection per PR, it is easier to review, thanks!**
+
 ## Release
 
 Even if collections are updated in this repo, updated collections will go live in a future release (which may not be the next one).
