@@ -21,6 +21,7 @@ Play Concepts at [https://conceptsgame.io](https://conceptsgame.io).
 ### Formatting
 
 * Use `Title Case` for both concepts and collection names.
+* Concepts should be singular (unless the usual spelling is plural, like scissors)
 * Collection names should be plural.
 * Collection file names should be the name of the collection in kebab-case (dash-case) in lowercase
 
