@@ -12,13 +12,17 @@ Play Concepts at [https://conceptsgame.io](https://conceptsgame.io).
 * Ideal collections are from mundane things, and have between 8-20 concepts each (can be more, just to point a number).
 * Ideal concepts have only one word, but more words is completely fine.
 * If there are multiple ways to write the same concept, prefer the most common way it's being written. This usually applies to words with hyphens vs space.
-* Use `Title Case` for both concepts and collection names.
-* Collection names should be plural.
 * Before adding a concept to a collection, consider the question: "Does the concept X belong in Y?". For example:
   * Does the concept _Rose_ belong in _Flowers_? Yes!
   * Does the concept _Milk_ belong in _Foods_? Well, yes, but no. So it should not be there.
   * [TODO: expand on this]
 * Do not add very very obscure words or collections, they should be generally known. We aim for the game to be fun, not tedious.
+
+### Formatting
+
+* Use `Title Case` for both concepts and collection names.
+* Collection names should be plural.
+* Collection file names should be the name of the collection in kebab-case (dash-case) in lowercase
 
 ## Contributing
 
