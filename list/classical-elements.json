@@ -6,5 +6,6 @@
     "Earth",
     "Fire",
     "Air"
-  ]
+  ],
+  "disableLeaderboard": true
 }
